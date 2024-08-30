@@ -7,3 +7,5 @@ on iOS 15-, everything works fine.
 ## Demo
 
 Just open `UIImageViewStopAnimatingBug.xcodeproj`, run on devices/simulator, click the Demo's `Stop` button to see the result. Compared with iOS 16+ and iOS 15-
+
+## FB14976073
